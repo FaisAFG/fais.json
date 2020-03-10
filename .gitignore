@@ -1,0 +1,13 @@
+config.env
+pycache/*
+brains.check
+learning-data-root.check
+userbot.db
+userbot.session
+userbot.session-journal
+userbot/pycache/*
+userbot/modules/pycache/*
+userbot/modules/rextester/pycache/*
+userbot/modules/sql_helper/pycache/*
+.progress
+.vscode/*
